@@ -31,5 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+touch src/main/resources/.keep
 src/main/resources/application.properties
 
